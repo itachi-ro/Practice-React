@@ -1,4 +1,4 @@
-import First from "./first"
+import First from "./First"
 
 function App() {
   return (
@@ -9,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

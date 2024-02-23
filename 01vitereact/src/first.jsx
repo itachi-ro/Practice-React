@@ -1,7 +1,7 @@
 function First(){
     return(
-        <h3>First add</h3>
+        <h3>HELLO BOY</h3>
     )
 }
 
-export default First
+export default First;
